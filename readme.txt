@@ -1,0 +1,1 @@
+è consigliato la visualizzazione su un monitor 1080p o più grande.

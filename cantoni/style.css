@@ -1,0 +1,44 @@
+	h1 {color: #FCFCFC; text-align: center; font-family:'Georgia'}
+	p {color: #FCFCFC; text-align: center; font-family:'Helvetica'}
+	div {text-align: center;}
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: #3313;
+	}
+
+	li {
+		float: left;
+	}
+
+	li a.button {
+		font-family: 'Helvetica';
+		font-size: 18px;
+		display: block;
+		color: white;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+
+	li a.button:hover {
+		background-color: crimson;
+	}
+	
+	table, th, td {
+		font-style: normal;
+		font-size: 18px;
+		border-collapse: collapse;
+		border: 3px solid #FCFCFC;
+	}
+
+	table.center {
+		margin-left: 20%; 
+		
+	}
+	a {text-decoration: none; color: white}
+	a:hover {background-color: crimson;}
+	::selection {background: crimson; color: white;}
+	::-webkit-scrollbar { display: none; }
